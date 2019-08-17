@@ -26,4 +26,4 @@ function do_sudo
     else
         PATH="/sbin:/usr/sbin:/usr/local/sbin:$PATH" $run $==*
     fi
-}<Paste>
+}
